@@ -136,6 +136,3 @@ class PetFriends:
             result = res.text
         return status, result
 
-
-#print(PetFriends.get_list_of_pets('self', 'auth_key', 'filter'))
-#print(PetFriends.get_list_of_pets(, ))
